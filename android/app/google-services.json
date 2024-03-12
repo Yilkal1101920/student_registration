@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397011938216",
+    "project_id": "studentregistration-e6acb",
+    "storage_bucket": "studentregistration-e6acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397011938216:android:f1b4fb0ff99a6dcd244b9d",
+        "android_client_info": {
+          "package_name": "com.example.student_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397011938216-jsgbahfq9fn4av1j0inpje4k2nl3km3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOO0Rb86jrWb-sDadVvLF6m_CAV9t77aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397011938216-jsgbahfq9fn4av1j0inpje4k2nl3km3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
